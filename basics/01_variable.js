@@ -9,4 +9,4 @@ let state // return the output as un defined
 email = "ck001@gmail.com"   // overwrite the previous input 
 
 console.log(name);;
-console.table([name,email,password,city,state]); // used to give the output in tabular format
+console.table([name,email,password,city,state]); // used to give the output in tabular formatmain

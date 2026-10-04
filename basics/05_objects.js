@@ -58,6 +58,6 @@ const Users = [
 Users[1].email
 console.log(instaUser);
 
-console.log(Object.keys(instaUser))
-console.log(Object.values(instaUser))
-console.log(Object.entries(instaUser))
+console.log(Object.keys(instaUser)) // print keys
+console.log(Object.values(instaUser)) // print values
+console.log(Object.entries(instaUser)) // print the values in array 
