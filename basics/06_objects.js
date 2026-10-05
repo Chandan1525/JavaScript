@@ -7,5 +7,6 @@ const course = {
 }
 
 console.log(course.courseInstructor);
-const {courseFee : Fee} = course
+
+const {courseFee : Fee} = course // used to rename the keys 
 console.log(Fee);
